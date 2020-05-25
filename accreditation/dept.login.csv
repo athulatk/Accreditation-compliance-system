@@ -1,0 +1,7 @@
+Dept.id,Dept.name,Username,Password
+D01,Computer Science and Engineering,computerscience@cet,cetcse3000
+D02,Mechanical Engineering,mechanical@cet,cetmech3000
+D03,Electronics and Communication Engineering,electronics@cet,cetece3000
+D04,Electrical and Electronics Engineering,electrical@cet,ceteee3000
+D05,Civil Engineering,civil@cet,cetcivil3000
+,Principal,principalcet,Princi@99
