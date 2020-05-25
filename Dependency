@@ -1,0 +1,11 @@
+Dependancy
+
+
+
+    • Java programming language
+      
+    • Mysql 
+      
+    • Mysql connector(mysql-connector-java-8.0.19.jar). The jar file should be added to the library to run the program.
+      
+    • Eclipse Ide or any other Ide
